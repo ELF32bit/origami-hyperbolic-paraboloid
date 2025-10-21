@@ -1,2 +1,2 @@
 # Origami Hyperbolic Paraboloid
-![image caption](origami-hyperbolic-paraboloid.png)
+![Demonstartion](origami-hyperbolic-paraboloid.png)
